@@ -1,3 +1,5 @@
 Hola soy Jorge tengo 13 años y estoy aprediendo git y github en platzi.
 Actualmente vivo en Benetússer, Valencia.
 Estoy estudiando en el grado de 2do de la ESO
+
+Me gustaría ver mi progreso a lo largo del tiempo.
