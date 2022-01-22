@@ -1,6 +1,19 @@
 body
 {
-    color:crimson;
+    color:black;
     text-align: center;
     font-family: "Arial";
+    font-size: 16px;
+    margin: 0px;
+    padding: 0px;
 }
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid black;
+    margin: 10px auto;
+    font-size: 20px;
+}
+
