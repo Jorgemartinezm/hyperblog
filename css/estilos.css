@@ -53,10 +53,13 @@ body
 {
     background: white;
     padding: 1em;
-    
-#footer{
+}
+
+#footer
+{
     background: #777;
     color: white;
     text-align: center;
-    padding: 0.5em;
+    padding: 0.25em;
+    padding-bottom: 0.25em;
 }
